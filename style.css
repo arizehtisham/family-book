@@ -1,0 +1,17 @@
+#header{
+    text-align:center;
+  }
+  body{
+    text-align:center;
+  }
+  #line{
+    color:#8BC34A;
+  }
+  #buttonmove{
+    height:45px;
+    width:100px;
+    font-size:25px;
+  }
+  img{
+    height:400px;
+  }
